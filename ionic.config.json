@@ -1,0 +1,7 @@
+{
+  "name": "tier-list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
