@@ -3,7 +3,7 @@ API for server.js
 
 
 ### Login - *POST*
-/api/login
+* /api/login
 
 _requires_
 ```json
@@ -15,7 +15,7 @@ _requires_
 
 
 ### Register - *POST*
-/api/register
+* /api/register
 
 _requires_
 ```json
