@@ -1,10 +1,9 @@
 ## REST Routes
 API for server.js
 
----
 
 
-### Login - *POST*
+#### Login - *POST*
 * /api/login
 
 _requires_
@@ -16,7 +15,7 @@ _requires_
 ```
 
 
-### Register - *POST*
+#### Register - *POST*
 * /api/register
 
 _requires_
