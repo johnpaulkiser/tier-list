@@ -6,7 +6,6 @@ API for server.js
 /api/login
 
 _requires_
-
 ```json
   "user": {
     "email": <email>,
@@ -19,7 +18,6 @@ _requires_
 /api/register
 
 _requires_
-
 ```json
   "user": {
     "email": <email>,
