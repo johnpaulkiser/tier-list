@@ -3,6 +3,7 @@ API for server.js
 
 ---
 
+
 ### Login - *POST*
 * /api/login
 
@@ -13,7 +14,7 @@ _requires_
     "password": <password>
   }
 ```
--
+
 
 ### Register - *POST*
 * /api/register
