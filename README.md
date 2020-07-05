@@ -20,3 +20,9 @@ Serve the app using
 ```bash
 ionic serve
 ```
+
+Serve developer API
+
+```bash
+npm start startDevApi
+```
