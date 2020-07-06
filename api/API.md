@@ -2,11 +2,11 @@
 API for server.js
 
 
-### Login - *POST*
-/api/login
+
+#### Login - *POST*
+* /api/login
 
 _requires_
-
 ```json
   "user": {
     "email": <email>,
@@ -15,11 +15,10 @@ _requires_
 ```
 
 
-### Register - *POST*
-/api/register
+#### Register - *POST*
+* /api/register
 
 _requires_
-
 ```json
   "user": {
     "email": <email>,
