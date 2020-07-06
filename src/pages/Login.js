@@ -14,16 +14,18 @@ class Login extends React.Component {
     };
   }
   
-  handleLogin = () => {
+   handleLogin = async() => {
     console.log("ok");
     fetch('http://localhost:3000/api/login', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
       },
-      body: JSON.stringify({ 
-        email: this.state.email,
-        password: this.state.password
+      body: JSON.stringify({
+        user: { 
+          email: this.state.email,
+          password: this.state.password
+        }
       })
     })
     .then((r) => {

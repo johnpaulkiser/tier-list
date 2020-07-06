@@ -15,8 +15,14 @@ Install the app using
 npm install 
 ```
 
-Serve the app using
+Serve the client-side app using
 
 ```bash
 ionic serve
+```
+
+Run the development api using
+
+```bash
+npm run startDevApi
 ```
