@@ -6,23 +6,23 @@
 Install ionic globally using npm with 
 
 ```bash
-npm install -g @ionic/cli
+$ npm install -g @ionic/cli
 ```
 
 Install the app using
 
 ```bash
-npm install 
+$ npm install 
 ```
 
 Serve the client-side app using
 
 ```bash
-ionic serve
+$ ionic serve
 ```
 
 Run the development api using
 
 ```bash
-npm run startDevApi
+$ npm run startDevApi
 ```
